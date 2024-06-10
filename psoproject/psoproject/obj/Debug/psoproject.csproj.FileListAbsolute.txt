@@ -1,0 +1,10 @@
+C:\Users\aysen\source\repos\psoproject\psoproject\bin\Debug\psoproject.exe.config
+C:\Users\aysen\source\repos\psoproject\psoproject\bin\Debug\psoproject.exe
+C:\Users\aysen\source\repos\psoproject\psoproject\bin\Debug\psoproject.pdb
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.csproj.AssemblyReference.cache
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.Form1.resources
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.Properties.Resources.resources
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.csproj.GenerateResource.cache
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.exe
+C:\Users\aysen\source\repos\psoproject\psoproject\obj\Debug\psoproject.pdb
